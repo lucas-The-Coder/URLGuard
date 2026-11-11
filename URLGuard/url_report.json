@@ -1,0 +1,9 @@
+{
+  "url": "not-a-url",
+  "hostname": null,
+  "score": 100,
+  "risk": "CRITICAL",
+  "reasons": [
+    "INVALID_URL"
+  ]
+}
